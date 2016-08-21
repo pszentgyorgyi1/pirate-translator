@@ -1,24 +1,24 @@
-#English to Pirate translator
+# English to Pirate translator
 
-  ##What is it?
-  ##-----------
+  ## What is it?
+  ## -----------
 
   This is a translator, which translates English text to pirate.  
 
-  ##Installation
-  ##------------
+  ## Installation
+  ## ------------
   Build the solution
 
-  ##Licensing
-  ##---------
+  ## Licensing
+  ## ---------
   Public domain license
   
-  ##Latest version
-  ##-----------
+  ## Latest version
+  ## -----------
   Find it on my github: 
   /pszentgyorgyi1/pirate-translator
   
-  ##Contacts, requests, bugs, features
-  ##--------
+  ## Contacts, requests, bugs, features
+  ## --------
 
 	 * Author: lyerit@gmail.com
